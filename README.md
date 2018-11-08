@@ -7,9 +7,17 @@
 
 ## 技能
   - CSS
-  - JavaScript(React, Redux)
+    - Bootstrap
+    - Flexbox
+  - JavaScript
+    - React
+    - Redux
+    - ES6
   - TypeScript
-  - Node.js (Socket.IO, Koa, TypeORM)
+  - Node.js
+    - Socket.IO
+    - Koa
+    - TypeORM
   - C
 
 ## 工作經歷
