@@ -34,6 +34,7 @@
     - 使用Node.js開發樹莓派硬體控制
     - 協助前端串接後端
     - 在公司產品既有的ESP8266韌體上開發OLED顯示的功能
+    - 能思考軟硬體兩方面的角度,幫助公司找出產品韌體的缺陷
 
 ## 作品
   - [github](https://github.com/kunyaoxu?tab=repositories)
@@ -45,7 +46,11 @@
   - [VoIP 監聽平台(大學畢業專題)](https://www.youtube.com/watch?v=6ItWfew0kSw)
   
     Node.js(搭配Socket.IO和Express), MITM, ARP spoofing
-    
+
+## 更多關於我的細節
+  - 習慣找出問題本質,在能搞清楚問題的狀況下盡量找出問題核心,並試著動手解決
+  - 希望未來能更加朝著Clean code的境界前進,逐步提昇自我
+
 ## 學歷
 逢甲大學通訊工程系畢業,主修數位通訊學程(2013 ~ 2017)
 
