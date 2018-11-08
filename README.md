@@ -23,9 +23,9 @@
     
     期間的經歷:
     - 以Node.js為後端建置部份的api(也包含文件與測試)
-    - 使用Node.js開發樹莓派硬體控制的程式
+    - 使用Node.js開發樹莓派硬體控制
     - 協助前端串接後端
-    - 使用C語言在既有的ESP8266韌體上開發OLED顯示的功能
+    - 在公司產品既有的ESP8266韌體上開發OLED顯示的功能
 
 ## 作品
   - github:https://github.com/kunyaoxu/
