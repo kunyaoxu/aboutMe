@@ -28,7 +28,9 @@
     - 在公司產品既有的ESP8266韌體上開發OLED顯示的功能
 
 ## 作品
-  - github:https://github.com/kunyaoxu/
+  - [github](https://github.com/kunyaoxu?tab=repositories)
+  
+    React, Node.js, JavaScript, etc.
   - [wooSpeech](https://chrome.google.com/webstore/detail/woospeech/gocmhicimccganejagcaohbnkoalceig)
     
     這是一個可以用於電腦網頁板wootalk的插件，當對方傳新訊息時訊息內容會透過google小姐的聲音念出來，是在等兵役的期間學習chrome插件並實做的小專題。
