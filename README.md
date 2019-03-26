@@ -1,7 +1,7 @@
 # 許坤耀
 
 ## 簡介
-平常喜歡聽音樂、看車評節目、玩玩口琴，接觸過的語言有JavaScript、Node.js、PHP、Python、C，以Ubuntu為主要開發環境，期許自己未來能在幾年內成為對前後端甚至是硬體都有所掌握的工程師。
+平常喜歡聽音樂、看車評節目、玩玩口琴，接觸過的語言有JavaScript、Node.js、C，以Ubuntu為主要開發環境，期許自己未來能在幾年內成為對前後端甚至是硬體都有所掌握的工程師。
   - Email: a663321765@gmail.com
   - Blog: https://medium.com/@a663321765
 
@@ -13,6 +13,7 @@
     - React
     - Redux
     - ES6
+    - Next.js
   - TypeScript
   - Node.js
     - Socket.IO
@@ -25,7 +26,7 @@
 
     接觸到的技術: 
     - Node.js (Socket.IO, Koa, TypeORM)
-    - JavaScript (React, Redux)
+    - JavaScript (React, Redux, Next.js)
     - TypeScript
     - ESP8266
     
