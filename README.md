@@ -24,19 +24,18 @@
 ## 工作經歷
   - CUBExUS 香港商酷比客國際有限公司台灣分公司 (2018/07 ~ 目前)
 
-    接觸到的技術: 
+    使用到的技術: 
     - Node.js (Socket.IO, Koa, TypeORM)
     - JavaScript (React, Redux, Next.js)
     - TypeScript
     - ESP8266
     
     期間的經歷(百分比為期間經歷的大約比例):
+    - 網站前端開發 55%
     - 以Node.js為後端建置部份的api(也包含文件與測試) 10%
-    - 使用Node.js開發樹莓派硬體控制 10%
+    - 使用Node.js開發樹莓派硬體控制 15%
     - 協助前端串接後端 10%
-    - 網站前端開發 60%
-    - 在公司產品既有的ESP8266韌體上開發OLED顯示的功能 10%
-    - 嘗試思考軟硬體兩方面的角度,幫助公司找出產品韌體的缺陷
+    - 在公司產品既有的ESP8266韌體上開發OLED顯示的功能, 及幫助修正部分韌體問題 10%
 
 ## 作品
   - [github](https://github.com/kunyaoxu?tab=repositories)
