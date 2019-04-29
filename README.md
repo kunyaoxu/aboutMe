@@ -8,7 +8,7 @@
 
 ## 工作經歷
 
-### CUBExUS 香港商酷比客國際有限公司台灣分公司 (2018/07 ~ 目前)
+### CUBExUS 香港商酷比客國際有限公司台灣分公司 (2018/07 ~ 2019/04)
 
   - 前端 SPA 網頁實作 (React / Redux / Next.js / TypeScript)
   - 根據設計稿實現 RWD 切版(bootstrap / sass)
