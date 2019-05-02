@@ -19,6 +19,19 @@
 ## 作品
   
     React, Node.js, JavaScript, etc.
+  
+  - [vue-todo-app](https://kunyaoxu.github.io/vue-todo-app/dist/)
+    
+    學習 vue 的 side project
+  
+  - [2018 THE F2E 第二周挑戰題目](https://kunyaoxu.github.io/week2_filter/build/)
+    
+    練習 RWD
+  
+  - [2018 THE F2E 第一周挑戰題目 todo](https://kunyaoxu.github.io/todolist/build/)
+    
+    初學 react 的 side project
+  
   - [wooSpeech](https://chrome.google.com/webstore/detail/woospeech/gocmhicimccganejagcaohbnkoalceig)
     
     這是一個可以用於電腦網頁板wootalk的插件，當對方傳新訊息時訊息內容會透過google小姐的聲音念出來，是在等兵役的期間學習chrome插件並實做的小專題。
