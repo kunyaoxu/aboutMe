@@ -18,15 +18,23 @@
 
 ## 作品
   
-    React, Node.js, JavaScript, etc.
+    React, Node.js, Vue, Ruby on Rails, JavaScript, etc.
+  
+  - [order_list-frontend](https://github.com/kunyaoxu/order_list-frontend)
+    
+    rails-order_list-api 的前端介面
+  
+  - [rails-order_list-api](https://github.com/kunyaoxu/rails-order_list-api)
+  
+    rails api server
   
   - [vue-todo-app](https://kunyaoxu.github.io/vue-todo-app/dist/)
     
-    學習 vue 的 side project
+    學習 vue + vuex 的 side project
   
   - [2018 THE F2E 第二周挑戰題目](https://kunyaoxu.github.io/week2_filter/build/)
     
-    練習 RWD
+    react + 練習 RWD
   
   - [2018 THE F2E 第一周挑戰題目 todo](https://kunyaoxu.github.io/todolist/build/)
     
