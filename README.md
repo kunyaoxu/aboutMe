@@ -14,7 +14,9 @@
   - 根據設計稿實現 RWD 切版(bootstrap / sass)
   - 協助後端 API 實作與撰寫文件及測試(Node.js / TypeScript / Koa2 / TypeORM(MySQL) / swagger / jest)
   - 透過網路指令實現遠端 Raspberry Pi 硬體 GPIO 控制(Node.js / Socket.io)
-  - ESP8266 韌體 improvement: 新增 OLED 顯示器支援, 及韌體問題除錯
+  - ESP8266 韌體 improvement:
+    - 新增 OLED 顯示器支援
+    - 從前端 legacy code 開始抓產品的 bug，最後在韌體端發現有呼叫多餘的延遲函式，並將其改善
 
 ## 作品
   
@@ -65,8 +67,4 @@
     - Koa
     - TypeORM
   - C
-
-## 更多關於我的細節
-  - 習慣找出問題本質,在能搞清楚問題的狀況下盡量找出問題核心,並試著動手解決
-  - 希望未來能更加朝著Clean code的境界前進,逐步提昇自我
-
+  
