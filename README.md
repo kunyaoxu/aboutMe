@@ -10,9 +10,9 @@
 
 ### CUBExUS 香港商酷比客國際有限公司台灣分公司 (2018/07 ~ 2019/04)
 
+  - 後端 API 實作與撰寫文件及測試(Node.js / TypeScript / Koa2 / TypeORM(MySQL) / swagger / jest)
   - 前端 SPA 網頁實作 (React / Redux / Next.js / TypeScript)
   - 根據設計稿實現 RWD 切版(bootstrap / sass)
-  - 協助後端 API 實作與撰寫文件及測試(Node.js / TypeScript / Koa2 / TypeORM(MySQL) / swagger / jest)
   - 透過網路指令實現遠端 Raspberry Pi 硬體 GPIO 控制(Node.js / Socket.io)
   - ESP8266 韌體 improvement:
     - 新增 OLED 顯示器支援
@@ -22,13 +22,13 @@
   
     React, Node.js, Vue, Ruby on Rails, JavaScript, etc.
   
-  - [order_list-frontend](https://github.com/kunyaoxu/order_list-frontend)
-    
-    rails-order_list-api 的前端介面
-  
   - [rails-order_list-api](https://github.com/kunyaoxu/rails-order_list-api)
   
     rails api server
+    
+  - [order_list-frontend](https://github.com/kunyaoxu/order_list-frontend)
+    
+    rails-order_list-api 的前端介面
   
   - [vue-todo-app](https://kunyaoxu.github.io/vue-todo-app/dist/)
     
